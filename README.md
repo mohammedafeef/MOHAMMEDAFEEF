@@ -1,10 +1,7 @@
 ### Hi, I'm Afeef 👋
 - 👀 I’m interested in Backend Development
-- 💻 I’m currently a Developer Intern at [Sanoft]()
+- 💻 I’m currently a Developer Intern at [Sanoft](https://www.sanoft.com/)
 - 💞️ I’m looking to collaborate on interesting projects
- 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=MOHAMMEDAFEEF&count_private=true&include_all_commits=true)
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MOHAMMEDAFEEF&layout=compact)
 
