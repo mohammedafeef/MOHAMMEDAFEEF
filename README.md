@@ -3,8 +3,6 @@
 - 💻 I’m currently a Developer Intern at [Sanoft](https://www.sanoft.com/)
 - 💞️ I’m looking to collaborate on interesting projects
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MOHAMMEDAFEEF&layout=compact)
-
 <!--
 **MOHAMMEDAFEEF/MOHAMMEDAFEEF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
