@@ -1,6 +1,5 @@
 ### Hi, I'm Afeef 👋
-- 👀 I’m interested in Backend Development
-- 💻 I’m currently a Developer Intern at [Sanoft](https://www.sanoft.com/)
+- 👀 I’m interested in Full Stack development
 - 💞️ I’m looking to collaborate on interesting projects
 
 <!--
