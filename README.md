@@ -18,6 +18,8 @@ Cool project which I've worked on
 
 - [tictactoe](https://mohammedafeef.github.io/tictactoeGame/) : It's an tic-tac-toe game with vanila html ,css and javascript. which have three mode to play easy, moderate, impposible you can compete with computer in these three modes.
 
+- [bobby](https://github.com/mohammedafeef/bobby-cowinbot) : It's an discord bot which is used to check vaccine slot avalability and check on each 30 minutes if available then notify the subscribed users.
+
 ### Education
 
 - Emea arts and science college kondotty **Bsc computer science**
