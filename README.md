@@ -28,7 +28,7 @@ Cool project which I've worked on
 - reach me on [linkedin](https://www.linkedin.com/in/mohammedafeef/) and [@afeefev](https://twitter.com/afeefev)
 
 ### 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rohittp0&theme=gruvbox" alt="Stats"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohammedafeef&theme=gruvbox" alt="Stats"  /></p>
 
 <hr>
 <p align="center">
